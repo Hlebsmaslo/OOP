@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TUF\\OneDrive\\Рабочий стол\\git\\11.09\\11.09\\11.09.csproj": {}
+    "C:\\Users\\TUF\\oop\\11.09\\11.09\\11.09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TUF\\OneDrive\\Рабочий стол\\git\\11.09\\11.09\\11.09.csproj": {
+    "C:\\Users\\TUF\\oop\\11.09\\11.09\\11.09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TUF\\OneDrive\\Рабочий стол\\git\\11.09\\11.09\\11.09.csproj",
+        "projectUniqueName": "C:\\Users\\TUF\\oop\\11.09\\11.09\\11.09.csproj",
         "projectName": "11.09",
-        "projectPath": "C:\\Users\\TUF\\OneDrive\\Рабочий стол\\git\\11.09\\11.09\\11.09.csproj",
+        "projectPath": "C:\\Users\\TUF\\oop\\11.09\\11.09\\11.09.csproj",
         "packagesPath": "C:\\Users\\TUF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TUF\\OneDrive\\Рабочий стол\\git\\11.09\\11.09\\obj\\",
+        "outputPath": "C:\\Users\\TUF\\oop\\11.09\\11.09\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
