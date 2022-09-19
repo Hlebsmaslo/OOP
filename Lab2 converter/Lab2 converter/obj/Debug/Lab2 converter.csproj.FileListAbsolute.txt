@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\obj\Debug\Lab2 converter.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\obj\Debug\Lab2 converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\obj\Debug\Lab2 converter.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\bin\Debug\Lab2 converter.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\bin\Debug\Lab2 converter.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\bin\Debug\Lab2 converter.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\obj\Debug\Lab2 converter.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2 converter\Lab2 converter\obj\Debug\Lab2 converter.pdb

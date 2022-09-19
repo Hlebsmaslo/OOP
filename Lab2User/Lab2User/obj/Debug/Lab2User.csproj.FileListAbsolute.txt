@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\bin\Debug\Lab2User.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\bin\Debug\Lab2User.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\bin\Debug\Lab2User.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\obj\Debug\Lab2User.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\obj\Debug\Lab2User.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\obj\Debug\Lab2User.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\obj\Debug\Lab2User.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2User\Lab2User\obj\Debug\Lab2User.pdb

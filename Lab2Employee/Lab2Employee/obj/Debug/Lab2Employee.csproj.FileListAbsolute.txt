@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\bin\Debug\Lab2Employee.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\bin\Debug\Lab2Employee.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\bin\Debug\Lab2Employee.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\obj\Debug\Lab2Employee.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\obj\Debug\Lab2Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\obj\Debug\Lab2Employee.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\obj\Debug\Lab2Employee.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Lab2Employee\Lab2Employee\obj\Debug\Lab2Employee.pdb
