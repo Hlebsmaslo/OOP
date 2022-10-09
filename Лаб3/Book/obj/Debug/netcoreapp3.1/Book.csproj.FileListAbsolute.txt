@@ -1,0 +1,28 @@
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.exe
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.dll
+E:\University\Laboratory3OOP\Book\bin\Debug\netcoreapp3.1\Book.pdb
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.dll
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.pdb
+E:\University\Laboratory3OOP\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

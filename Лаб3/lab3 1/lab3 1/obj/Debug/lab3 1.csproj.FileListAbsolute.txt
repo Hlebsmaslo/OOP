@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\bin\Debug\lab3 1.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\bin\Debug\lab3 1.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\bin\Debug\lab3 1.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\obj\Debug\lab3 1.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\obj\Debug\lab3 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\obj\Debug\lab3 1.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\obj\Debug\lab3 1.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\lab3 1\lab3 1\obj\Debug\lab3 1.pdb

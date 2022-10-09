@@ -1,0 +1,28 @@
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.exe
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.deps.json
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.json
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.dev.json
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.dll
+E:\University\Laboratory3OOP\Polygon\bin\Debug\netcoreapp3.1\Polygon.pdb
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.csproj.AssemblyReference.cache
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfoInputs.cache
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfo.cs
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.csproj.CoreCompileInputs.cache
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.dll
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.pdb
+E:\University\Laboratory3OOP\Polygon\obj\Debug\netcoreapp3.1\Polygon.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.deps.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.dev.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\bin\Debug\netcoreapp3.1\Polygon.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\Polygon\obj\Debug\netcoreapp3.1\Polygon.genruntimeconfig.cache

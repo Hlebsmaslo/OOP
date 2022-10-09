@@ -1,0 +1,28 @@
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.exe
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.deps.json
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.runtimeconfig.json
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.runtimeconfig.dev.json
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.dll
+E:\University\Laboratory3OOP\MPE\bin\Debug\netcoreapp3.1\MPE.pdb
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.csproj.AssemblyReference.cache
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.AssemblyInfoInputs.cache
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.AssemblyInfo.cs
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.csproj.CoreCompileInputs.cache
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.dll
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.pdb
+E:\University\Laboratory3OOP\MPE\obj\Debug\netcoreapp3.1\MPE.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.exe
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.deps.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.runtimeconfig.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.runtimeconfig.dev.json
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\bin\Debug\netcoreapp3.1\MPE.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.dll
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\git\Лаб3\MPE\obj\Debug\netcoreapp3.1\MPE.genruntimeconfig.cache
