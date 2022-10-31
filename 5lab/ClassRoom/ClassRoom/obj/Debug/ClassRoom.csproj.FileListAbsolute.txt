@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\obj\Debug\ClassRoom.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\obj\Debug\ClassRoom.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\TUF\OneDrive\Рабочий стол\ClassRoom\ClassRoom\obj\Debug\ClassRoom.pdb

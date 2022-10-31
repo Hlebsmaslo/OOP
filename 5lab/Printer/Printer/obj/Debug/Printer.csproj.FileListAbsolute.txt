@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\obj\Debug\Printer.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\obj\Debug\Printer.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\bin\Debug\Printer.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\bin\Debug\Printer.exe
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\bin\Debug\Printer.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\obj\Debug\Printer.exe
+C:\Users\TUF\OneDrive\Рабочий стол\Printer\Printer\obj\Debug\Printer.pdb

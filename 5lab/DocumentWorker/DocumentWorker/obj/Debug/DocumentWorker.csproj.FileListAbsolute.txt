@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\obj\Debug\DocumentWorker.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\obj\Debug\DocumentWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\obj\Debug\DocumentWorker.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\bin\Debug\DocumentWorker.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\bin\Debug\DocumentWorker.exe
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\bin\Debug\DocumentWorker.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\obj\Debug\DocumentWorker.exe
+C:\Users\TUF\OneDrive\Рабочий стол\5lab\DocumentWorker\DocumentWorker\obj\Debug\DocumentWorker.pdb
