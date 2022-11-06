@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\obj\Debug\FTHREE.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\obj\Debug\FTHREE.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\obj\Debug\FTHREE.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\bin\Debug\FTHREE.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\bin\Debug\FTHREE.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\bin\Debug\FTHREE.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\obj\Debug\FTHREE.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTHREE\FTHREE\obj\Debug\FTHREE.pdb

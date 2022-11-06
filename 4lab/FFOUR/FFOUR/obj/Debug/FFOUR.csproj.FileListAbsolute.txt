@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\bin\Debug\FFOUR.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\bin\Debug\FFOUR.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\bin\Debug\FFOUR.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\obj\Debug\FFOUR.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\obj\Debug\FFOUR.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\obj\Debug\FFOUR.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\obj\Debug\FFOUR.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FFOUR\FFOUR\obj\Debug\FFOUR.pdb

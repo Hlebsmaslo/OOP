@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\obj\Debug\FONE.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\obj\Debug\FONE.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\obj\Debug\FONE.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\bin\Debug\FONE.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\bin\Debug\FONE.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\bin\Debug\FONE.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\obj\Debug\FONE.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FONE\FONE\obj\Debug\FONE.pdb

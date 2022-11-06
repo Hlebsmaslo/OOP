@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\obj\Debug\FTWO.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\obj\Debug\FTWO.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\obj\Debug\FTWO.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\bin\Debug\FTWO.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\bin\Debug\FTWO.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\bin\Debug\FTWO.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\obj\Debug\FTWO.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\FTWO\FTWO\obj\Debug\FTWO.pdb
