@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\bin\Debug\List.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\bin\Debug\List.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\bin\Debug\List.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\obj\Debug\List.exe
+C:\Users\TUF\OneDrive\Рабочий стол\4lab\List\List\obj\Debug\List.pdb
