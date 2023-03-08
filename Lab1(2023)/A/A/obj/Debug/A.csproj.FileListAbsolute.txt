@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\bin\Debug\A.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\bin\Debug\A.exe
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\bin\Debug\A.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\obj\Debug\A.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\obj\Debug\A.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\obj\Debug\A.exe
+C:\Users\TUF\OneDrive\Рабочий стол\A\A\obj\Debug\A.pdb

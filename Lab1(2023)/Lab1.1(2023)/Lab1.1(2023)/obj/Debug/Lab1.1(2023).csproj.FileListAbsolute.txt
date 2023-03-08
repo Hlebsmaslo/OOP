@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\bin\Debug\Lab1.1(2023).exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\bin\Debug\Lab1.1(2023).exe
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\bin\Debug\Lab1.1(2023).pdb
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\obj\Debug\Lab1.1(2023).csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\obj\Debug\Lab1.1(2023).csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\obj\Debug\Lab1.1(2023).csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\obj\Debug\Lab1.1(2023).exe
+C:\Users\TUF\OneDrive\Рабочий стол\Lab1.1(2023)\Lab1.1(2023)\obj\Debug\Lab1.1(2023).pdb
