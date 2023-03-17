@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\bin\Debug\list.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\bin\Debug\list.exe
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\bin\Debug\list.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\obj\Debug\list.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\obj\Debug\list.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\obj\Debug\list.exe
+C:\Users\TUF\OneDrive\Рабочий стол\list\list\obj\Debug\list.pdb

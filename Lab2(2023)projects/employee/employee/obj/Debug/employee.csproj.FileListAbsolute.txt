@@ -1,0 +1,8 @@
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\bin\Debug\employee.exe.config
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\bin\Debug\employee.exe
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\bin\Debug\employee.pdb
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\obj\Debug\employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\obj\Debug\employee.exe
+C:\Users\TUF\OneDrive\Рабочий стол\employee\employee\obj\Debug\employee.pdb
