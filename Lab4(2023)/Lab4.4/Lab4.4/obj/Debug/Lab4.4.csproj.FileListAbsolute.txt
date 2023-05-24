@@ -1,8 +1,0 @@
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\bin\Debug\Lab4.4.exe.config
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\bin\Debug\Lab4.4.exe
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\bin\Debug\Lab4.4.pdb
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\obj\Debug\Lab4.4.csproj.AssemblyReference.cache
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\obj\Debug\Lab4.4.csproj.SuggestedBindingRedirects.cache
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\obj\Debug\Lab4.4.csproj.CoreCompileInputs.cache
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\obj\Debug\Lab4.4.exe
-C:\Users\TUF\Desktop\Lab4.4\Lab4.4\obj\Debug\Lab4.4.pdb
