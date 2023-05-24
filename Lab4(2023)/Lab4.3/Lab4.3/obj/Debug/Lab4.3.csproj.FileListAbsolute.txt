@@ -1,0 +1,3 @@
+D:\файли\Lab4(2023)\Lab4.3\Lab4.3\obj\Debug\Lab4.3.csproj.AssemblyReference.cache
+D:\файли\Lab4(2023)\Lab4.3\Lab4.3\obj\Debug\Lab4.3.csproj.SuggestedBindingRedirects.cache
+D:\файли\Lab4(2023)\Lab4.3\Lab4.3\obj\Debug\Lab4.3.csproj.CoreCompileInputs.cache
