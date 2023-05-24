@@ -1,0 +1,13 @@
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.csproj.AssemblyReference.cache
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.csproj.SuggestedBindingRedirects.cache
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.Properties.Resources.resources
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.csproj.GenerateResource.cache
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+D:\файли\Lab4(2023)\JSON\JSON\bin\Debug\JSON.exe.config
+D:\файли\Lab4(2023)\JSON\JSON\bin\Debug\JSON.exe
+D:\файли\Lab4(2023)\JSON\JSON\bin\Debug\JSON.pdb
+D:\файли\Lab4(2023)\JSON\JSON\bin\Debug\Newtonsoft.Json.dll
+D:\файли\Lab4(2023)\JSON\JSON\bin\Debug\Newtonsoft.Json.xml
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.csproj.CopyComplete
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.exe
+D:\файли\Lab4(2023)\JSON\JSON\obj\Debug\JSON.pdb
